@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Enterprise Hotel Management System",
+  "description": "Streamlined hotel operations platform featuring real-time room inventory, front desk check-in, guest CRM, digital folios & payments, housekeeping dispatch, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
